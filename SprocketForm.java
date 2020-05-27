@@ -5,7 +5,7 @@ Purpose: JavaFX form to demonstrate advanced FX controls to create
          and manipulate CeramicSprockets
 */
 
-package CIS484;
+package CIS484.sprocket;
 
 import javafx.application.Application;
 import javafx.event.*;

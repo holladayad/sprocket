@@ -1,5 +1,5 @@
 
-package CIS484;
+package CIS484.sprocket;
 
 import java.util.*;
 import java.io.*;

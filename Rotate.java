@@ -1,5 +1,5 @@
 
-package CIS484;
+package CIS484.sprocket;
 
 
 public interface Rotate {
