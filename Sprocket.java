@@ -1,8 +1,10 @@
 
 package CIS484.sprocket;
 
+import java.io.*;
 
-public class Sprocket implements Rotate, Comparable<Sprocket> {
+
+public class Sprocket implements Rotate, Comparable<Sprocket>, Serializable{
     
     // Data Fields (non-static and Static)
     public String IDNum;
